@@ -1,0 +1,24 @@
+.container{
+    margin-bottom: 100px;
+    margin-top: 20px;
+    padding: 20px 40px;
+}
+
+.buy-now-button{
+    background: rgb(38,25,252);
+    background: linear-gradient(90deg, rgba(38,25,252,1) 0%, rgba(20,28,254,1) 54%, rgba(255,0,78,1) 100%);
+    padding: 10px 20px;    
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+.carousel{
+    background-image: url(images/bg-2.png); 
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.carousel-img{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+}
